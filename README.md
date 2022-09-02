@@ -1,3 +1,2 @@
 My first readme
-first
-great
+README.md
